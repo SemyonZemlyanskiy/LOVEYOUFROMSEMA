@@ -91,5 +91,9 @@ h1 {
     text-align: center;
 }
 
+p {
+    text-align: center;
+    transform: translateY(120px);
+}
 
 
